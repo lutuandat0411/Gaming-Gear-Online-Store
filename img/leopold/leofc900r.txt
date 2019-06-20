@@ -1,0 +1,7 @@
+Thông s? k? thu?t c?a bàn phím
+
+- S? lý?ng phím b?m: 104
+- Lo?i switch s? dung: Cherry MX Brown/Blue/Red
+- Ch?t li?u nh?a ðý?c s? d?ng cho keycap: PBT*
+- 6KRO qua USB và NKRO qua PS/2
+- Tr?ng lý?ng: 1,2kg
